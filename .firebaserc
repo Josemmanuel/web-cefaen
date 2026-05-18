@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "cefaen-6b340"
+  },
+  "targets": {
+    "cefaen-6b340": {
+      "hosting": {
+        "cefaen-lineazul": [
+          "cefaen-lineazul"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
